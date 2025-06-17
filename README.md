@@ -272,3 +272,17 @@ This roadmap isn't just about becoming a MERN developer; it's designed to forge 
 
 This roadmap, with its emphasis on modern tools like **TypeScript, Next.js, React Query, advanced Docker**, and cloud platforms like **AWS**, coupled with a strong focus on **system design, testing, and soft skills**, represents one of the "best" paths to achieving a **high-salary remote MERN stack developer role in 2025.** It moves beyond just knowing the technologies to understanding how to build and deploy robust, high-performance, and maintainable applications in a professional remote environment.
 
+
+## 👨‍💻 About the Author
+
+**Sajib Bhattacharjee**  
+MERN Stack Specialist | Full-Stack Web Developer
+
+- 🌐 [Portfolio & Projects](https://github.com/Sajib-Bhattacharjee)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)
+- 📧 [Contact Me](mailto:sajibbhattacjarjee2000@gmail.com)
+
+---
+
+<p align="center"><i>Created with ❤️ — 2025 Edition</i></p>
+
